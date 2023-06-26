@@ -1,0 +1,15 @@
+E:\Coding\GeekBrains\Practice\fst_sq\main\bin\Debug\net7.0\main.exe
+E:\Coding\GeekBrains\Practice\fst_sq\main\bin\Debug\net7.0\main.deps.json
+E:\Coding\GeekBrains\Practice\fst_sq\main\bin\Debug\net7.0\main.runtimeconfig.json
+E:\Coding\GeekBrains\Practice\fst_sq\main\bin\Debug\net7.0\main.dll
+E:\Coding\GeekBrains\Practice\fst_sq\main\bin\Debug\net7.0\main.pdb
+E:\Coding\GeekBrains\Practice\fst_sq\main\obj\Debug\net7.0\main.csproj.AssemblyReference.cache
+E:\Coding\GeekBrains\Practice\fst_sq\main\obj\Debug\net7.0\main.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\GeekBrains\Practice\fst_sq\main\obj\Debug\net7.0\main.AssemblyInfoInputs.cache
+E:\Coding\GeekBrains\Practice\fst_sq\main\obj\Debug\net7.0\main.AssemblyInfo.cs
+E:\Coding\GeekBrains\Practice\fst_sq\main\obj\Debug\net7.0\main.csproj.CoreCompileInputs.cache
+E:\Coding\GeekBrains\Practice\fst_sq\main\obj\Debug\net7.0\main.dll
+E:\Coding\GeekBrains\Practice\fst_sq\main\obj\Debug\net7.0\refint\main.dll
+E:\Coding\GeekBrains\Practice\fst_sq\main\obj\Debug\net7.0\main.pdb
+E:\Coding\GeekBrains\Practice\fst_sq\main\obj\Debug\net7.0\main.genruntimeconfig.cache
+E:\Coding\GeekBrains\Practice\fst_sq\main\obj\Debug\net7.0\ref\main.dll
